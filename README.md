@@ -192,11 +192,4 @@ Activated by right-clicking any job title on Page 1. Provides role-specific deep
 4. Use the **Job Title slicer** on Page 1 to filter the entire dashboard
 5. Right-click any job title → **Drill Through** to navigate to Page 2
 
----
 
-## 📬 Connect
-
-**Loknadh Venkata Krishna Sai Kona**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lvkrishna3/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:loknadh.kona@gmail.com)
